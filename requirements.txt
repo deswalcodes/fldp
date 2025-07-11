@@ -1,0 +1,9 @@
+
+flwr
+torch
+torchaudio
+pandas
+openai-whisper
+opacus
+scikit-learn
+gensim
